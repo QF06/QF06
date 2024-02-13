@@ -1,5 +1,5 @@
 [![QF06's GitHub stats](https://github-readme-stats.vercel.app/api?username=QF06)](https://github.com/anuraghazra/github-readme-stats)
-![QF06's GitHub stats](https://github-readme-stats.vercel.app/api?username=QF06_icons=true)
+![QF06's GitHub stats](https://github-readme-stats.vercel.app/api?username=QF06&show_icons=true&theme=radical)
 - 👋 Hi, I’m @QF06.
 - 👀 I’m interested in optics and programming.
 - 🌱 I’m currently learning Deeplearning and Tensorflow.
